@@ -1,4 +1,3 @@
 == AUTO REPAIRS
 
-A Rails app to demonstrate multitenancy in rails 
-
+A  app to demonstrate multitenancy in rail
